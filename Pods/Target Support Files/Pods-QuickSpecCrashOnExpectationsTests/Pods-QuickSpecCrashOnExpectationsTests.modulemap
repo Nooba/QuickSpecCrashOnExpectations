@@ -1,0 +1,6 @@
+framework module Pods_QuickSpecCrashOnExpectationsTests {
+  umbrella header "Pods-QuickSpecCrashOnExpectationsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

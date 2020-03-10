@@ -1,0 +1,16 @@
+PODS:
+  - Quick (2.2.0)
+
+DEPENDENCIES:
+  - Quick (= 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Quick
+
+SPEC CHECKSUMS:
+  Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
+
+PODFILE CHECKSUM: 95cd55f26b510fd29155afc789eb537cf921ff45
+
+COCOAPODS: 1.9.1
